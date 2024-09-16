@@ -11,6 +11,7 @@
 # SPIDERMAN
 ![image](https://github.com/user-attachments/assets/f68b6aa2-846a-4caa-bc97-c6f05eec0d18)
 
+# SPOTIFY PLAYLIST
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Eb5sztvEMa0Mqnb8DUAlU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # SOCIAL MEDIA
